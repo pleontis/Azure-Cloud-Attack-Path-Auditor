@@ -66,7 +66,7 @@ The tool combines **cloud security auditing** with **offensive security logic**,
 ---
 
 ## Project Structure
-
+```
 AzureCloudAttackPathAuditor/
 │
 ├── main.py # Tool entry point
@@ -85,7 +85,7 @@ AzureCloudAttackPathAuditor/
 │ └── attack_paths.py # Attack path correlation logic
 │
 └── report.md # Generated security report
-
+```
 
 ---
 
